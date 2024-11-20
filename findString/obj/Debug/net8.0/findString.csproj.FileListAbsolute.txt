@@ -1,0 +1,14 @@
+C:\Users\dozie\OneDrive\Documents\Assessment001\findString\bin\Debug\net8.0\findString.exe
+C:\Users\dozie\OneDrive\Documents\Assessment001\findString\bin\Debug\net8.0\findString.deps.json
+C:\Users\dozie\OneDrive\Documents\Assessment001\findString\bin\Debug\net8.0\findString.runtimeconfig.json
+C:\Users\dozie\OneDrive\Documents\Assessment001\findString\bin\Debug\net8.0\findString.dll
+C:\Users\dozie\OneDrive\Documents\Assessment001\findString\bin\Debug\net8.0\findString.pdb
+C:\Users\dozie\OneDrive\Documents\Assessment001\findString\obj\Debug\net8.0\findString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dozie\OneDrive\Documents\Assessment001\findString\obj\Debug\net8.0\findString.AssemblyInfoInputs.cache
+C:\Users\dozie\OneDrive\Documents\Assessment001\findString\obj\Debug\net8.0\findString.AssemblyInfo.cs
+C:\Users\dozie\OneDrive\Documents\Assessment001\findString\obj\Debug\net8.0\findString.csproj.CoreCompileInputs.cache
+C:\Users\dozie\OneDrive\Documents\Assessment001\findString\obj\Debug\net8.0\findString.dll
+C:\Users\dozie\OneDrive\Documents\Assessment001\findString\obj\Debug\net8.0\refint\findString.dll
+C:\Users\dozie\OneDrive\Documents\Assessment001\findString\obj\Debug\net8.0\findString.pdb
+C:\Users\dozie\OneDrive\Documents\Assessment001\findString\obj\Debug\net8.0\findString.genruntimeconfig.cache
+C:\Users\dozie\OneDrive\Documents\Assessment001\findString\obj\Debug\net8.0\ref\findString.dll

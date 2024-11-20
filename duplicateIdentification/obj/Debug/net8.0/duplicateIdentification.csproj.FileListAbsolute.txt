@@ -1,0 +1,14 @@
+C:\Users\dozie\OneDrive\Documents\Assessment001\duplicateIdentification\obj\Debug\net8.0\duplicateIdentification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dozie\OneDrive\Documents\Assessment001\duplicateIdentification\obj\Debug\net8.0\duplicateIdentification.AssemblyInfoInputs.cache
+C:\Users\dozie\OneDrive\Documents\Assessment001\duplicateIdentification\obj\Debug\net8.0\duplicateIdentification.AssemblyInfo.cs
+C:\Users\dozie\OneDrive\Documents\Assessment001\duplicateIdentification\obj\Debug\net8.0\duplicateIdentification.csproj.CoreCompileInputs.cache
+C:\Users\dozie\OneDrive\Documents\Assessment001\duplicateIdentification\bin\Debug\net8.0\duplicateIdentification.exe
+C:\Users\dozie\OneDrive\Documents\Assessment001\duplicateIdentification\bin\Debug\net8.0\duplicateIdentification.deps.json
+C:\Users\dozie\OneDrive\Documents\Assessment001\duplicateIdentification\bin\Debug\net8.0\duplicateIdentification.runtimeconfig.json
+C:\Users\dozie\OneDrive\Documents\Assessment001\duplicateIdentification\bin\Debug\net8.0\duplicateIdentification.dll
+C:\Users\dozie\OneDrive\Documents\Assessment001\duplicateIdentification\bin\Debug\net8.0\duplicateIdentification.pdb
+C:\Users\dozie\OneDrive\Documents\Assessment001\duplicateIdentification\obj\Debug\net8.0\duplicateIdentification.dll
+C:\Users\dozie\OneDrive\Documents\Assessment001\duplicateIdentification\obj\Debug\net8.0\refint\duplicateIdentification.dll
+C:\Users\dozie\OneDrive\Documents\Assessment001\duplicateIdentification\obj\Debug\net8.0\duplicateIdentification.pdb
+C:\Users\dozie\OneDrive\Documents\Assessment001\duplicateIdentification\obj\Debug\net8.0\duplicateIdentification.genruntimeconfig.cache
+C:\Users\dozie\OneDrive\Documents\Assessment001\duplicateIdentification\obj\Debug\net8.0\ref\duplicateIdentification.dll
